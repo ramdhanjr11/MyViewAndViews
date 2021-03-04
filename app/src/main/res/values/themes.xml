@@ -25,6 +25,10 @@
         <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Subtitle1</item>
     </style>
 
+    <style name="TextContent.Small.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
     <style name="TextContent.Subtitle">
         <item name="android:textColor">@color/colorSubtitle</item>
         <item name="android:textSize">12sp</item>
